@@ -84,22 +84,11 @@ Currently looking for **AI/ML and GenAI engineering internships**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 I'm open to internship opportunities, collaborations and conversations about AI engineering.
 
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 LinkedIn: [linkedin.com/in/sanchit-yadav-26a849341](https://linkedin.com/in/sanchit-yadav-26a849341)
 - 📧 Email: ysanchit78@gmail.com
 
 <div align="center">
